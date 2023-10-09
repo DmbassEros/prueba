@@ -9,7 +9,7 @@ namespace ProyectoJson
     internal class LectorConfig
     {
         public string Contrincante { get; set; } = "Humano";
-        public string Posicionamiento { get; set; } = "Automático";
+        public string Posicionamiento { get; set; } = "automatico";
         public string Version { get; set; } = "1.0";
 
     }
