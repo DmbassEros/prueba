@@ -4,6 +4,6 @@ class Program
 {
     static void Main()
     {
-        Console.WriteLine("Test de estrés");
+        Console.WriteLine("Test de fuerza");
     }
 }
